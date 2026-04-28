@@ -1,34 +1,38 @@
-# 👋 Olá, eu sou o Isaias Raff!
-
-Bem-vindo ao meu perfil no GitHub! 🚀  
-Aqui você vai encontrar projetos que refletem minha experiência, aprendizado contínuo e paixão por tecnologia.
-
----
-
-## 🧠 Tecnologias & Ferramentas
-
-### 💻 Linguagens e Frameworks
-- ☕ **Java** — Forte domínio em programação orientada a objetos  
-- 🌱 **Spring Boot** — Desenvolvimento de APIs REST e microsserviços  
-
-### 🗄️ Banco de Dados
-- 🐬 **MySQL** & 🐘 **PostgreSQL** — Bancos relacionais (SQL)  
-- 🍃 **MongoDB** — Banco NoSQL  
-
-### ⚙️ Ferramentas & Build
-- 🛠️ **Gradle**  & 📦 **Maven** — Automação de builds e gerenciamento de dependências  
+👋 Hello, I’m Isaias Raff!
+Welcome to my GitHub profile! 🚀
+Here you’ll find projects that reflect my experience, continuous learning, and passion for technology.
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Technologies & Tools
 
-- 🎯 Focado em desenvolvimento backend  
-- 📚 Sempre aprendendo novas tecnologias  
-- 🤝 Aberto a colaborações e novos desafios  
+### 💻 Languages & Frameworks
+
+☕ **Java** — Strong knowledge of object-oriented programming
+🟣 **Kotlin** — Modern language for Android and frontend development
+🌱 **Spring Boot** — REST API and microservices development
+
+### 🗄️ Databases
+
+🐬 **MySQL** & 🐘 **PostgreSQL** — Relational databases (SQL)
+🍃 **MongoDB** — NoSQL database
+
+### ⚙️ Tools & Build
+
+🛠️ **Gradle** & 📦 **Maven** — Build automation and dependency management
 
 ---
 
-## 🌐 Vamos nos conectar!
+## 🚀 About Me
 
-Sinta-se à vontade para explorar meus repositórios ⭐  
-Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia, será um prazer!
+🎯 Focused on backend and frontend development
+📚 Always learning new technologies
+🤝 Open to collaborations and new challenges
+📌 Knowledge of Agile methodologies (Scrum, Kanban)
+
+---
+
+## 🌐 Let’s Connect!
+
+Feel free to explore my repositories ⭐
+If you’d like to exchange ideas, collaborate, or just talk about technology, it would be a pleasure!
